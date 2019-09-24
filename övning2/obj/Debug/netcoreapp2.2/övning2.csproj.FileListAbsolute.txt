@@ -1,0 +1,11 @@
+C:\Users\Myran\Desktop\visual-studio\GitHub\exercises\övning2\bin\Debug\netcoreapp2.2\övning2.deps.json
+C:\Users\Myran\Desktop\visual-studio\GitHub\exercises\övning2\bin\Debug\netcoreapp2.2\övning2.runtimeconfig.json
+C:\Users\Myran\Desktop\visual-studio\GitHub\exercises\övning2\bin\Debug\netcoreapp2.2\övning2.runtimeconfig.dev.json
+C:\Users\Myran\Desktop\visual-studio\GitHub\exercises\övning2\bin\Debug\netcoreapp2.2\övning2.dll
+C:\Users\Myran\Desktop\visual-studio\GitHub\exercises\övning2\bin\Debug\netcoreapp2.2\övning2.pdb
+C:\Users\Myran\Desktop\visual-studio\GitHub\exercises\övning2\obj\Debug\netcoreapp2.2\övning2.csprojAssemblyReference.cache
+C:\Users\Myran\Desktop\visual-studio\GitHub\exercises\övning2\obj\Debug\netcoreapp2.2\övning2.csproj.CoreCompileInputs.cache
+C:\Users\Myran\Desktop\visual-studio\GitHub\exercises\övning2\obj\Debug\netcoreapp2.2\övning2.AssemblyInfoInputs.cache
+C:\Users\Myran\Desktop\visual-studio\GitHub\exercises\övning2\obj\Debug\netcoreapp2.2\övning2.AssemblyInfo.cs
+C:\Users\Myran\Desktop\visual-studio\GitHub\exercises\övning2\obj\Debug\netcoreapp2.2\övning2.dll
+C:\Users\Myran\Desktop\visual-studio\GitHub\exercises\övning2\obj\Debug\netcoreapp2.2\övning2.pdb
